@@ -5,6 +5,11 @@ Dec 10, 1865 --> 1865-12-10
 ```
 This is for educational purposes to learn about seq2seq models and attention mechanisms.
 
+### Helpful Resources
+1. https://arxiv.org/pdf/1409.0473.pdf
+2. https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+3. https://distill.pub/2016/augmented-rnns/
+
 ### Installation
 1. Install <a href="https://docs.conda.io/en/latest/">conda</a>.
 2. Create and activate conda env
