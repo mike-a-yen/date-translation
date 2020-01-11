@@ -2,6 +2,7 @@
 Sequence2Sequence model to translate date strings into the standard date format.
 ```
 Dec 10, 1865 --> 1865-12-10
+December 25, 1991 --> 1991-12-25
 ```
 This is for educational purposes to learn about seq2seq models and attention mechanisms.
 
