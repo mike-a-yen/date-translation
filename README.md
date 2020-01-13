@@ -9,8 +9,9 @@ This is for educational purposes to learn about seq2seq models and attention mec
 
 ### Helpful Resources
 1. https://arxiv.org/pdf/1409.0473.pdf
-2. https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
-3. https://distill.pub/2016/augmented-rnns/
+2. https://arxiv.org/pdf/1508.04025.pdf
+3. https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+4. https://distill.pub/2016/augmented-rnns/
 
 ### Installation
 1. Install <a href="https://docs.conda.io/en/latest/">conda</a>.
