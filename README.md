@@ -8,8 +8,8 @@ Saturday June 10 1741 --> 1741-06-10
 This is for educational purposes to learn about seq2seq models and attention mechanisms.
 
 ### Helpful Resources
-1. https://arxiv.org/pdf/1409.0473.pdf
-2. https://arxiv.org/pdf/1508.04025.pdf
+1. Bahdanau https://arxiv.org/pdf/1409.0473.pdf
+2. Luong https://arxiv.org/pdf/1508.04025.pdf
 3. https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 4. https://distill.pub/2016/augmented-rnns/
 
