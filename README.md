@@ -8,10 +8,11 @@ Saturday June 10 1741 --> 1741-06-10
 This is for educational purposes to learn about seq2seq models and attention mechanisms.
 
 ### Helpful Resources
-1. Bahdanau https://arxiv.org/pdf/1409.0473.pdf
-2. Luong https://arxiv.org/pdf/1508.04025.pdf
-3. https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
-4. https://distill.pub/2016/augmented-rnns/
+0. [Helpful primer with cool visuals](https://distill.pub/2016/augmented-rnns/)
+1. [Bahdanau et al.](https://arxiv.org/pdf/1409.0473.pdf)
+2. [Luong et al.](https://arxiv.org/pdf/1508.04025.pdf)
+3. [Conceptual implementation guide. ML Mastery](https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/)
+4. [Vaswani et al.](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 
 ### Installation
 1. Install <a href="https://docs.conda.io/en/latest/">conda</a>.
