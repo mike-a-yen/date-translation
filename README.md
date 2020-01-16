@@ -40,3 +40,6 @@ jupyter notebook
 2. Generate the dataset by running notebook `00_generate_data.ipynb`.
 3. Complete the Seq2Seq w/ attention code in `01_FITB_seq2seq.ipynb`. A solution is found in `01_seq2seq.ipynb`.
 4. Classify written dates w/ a transformer architecture. `02_transformers.ipynb`.
+
+### Notes:
+- Feel free to experiment with changing how the data is generated. You can widen or narrow the date range, or come up with different ways to represent dates as strings.
