@@ -14,6 +14,8 @@ This is for educational purposes to learn about seq2seq models and attention mec
 3. [Conceptual implementation guide. ML Mastery](https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/)
 4. [Vaswani et al.](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 
+A good Seq2Seq tutorial can be found [here](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html).
+
 ### Installation
 1. Install <a href="https://docs.conda.io/en/latest/">conda</a>.
 2. Create and activate conda env
@@ -35,4 +37,6 @@ conda activate date
 ```
 jupyter notebook
 ```
-2. Run the notebooks in sequential order. The first notebook to run starts with `00_`
+2. Generate the dataset by running notebook `00_generate_data.ipynb`.
+3. Complete the Seq2Seq w/ attention code in `01_FITB_seq2seq.ipynb`. A solution is found in `01_seq2seq.ipynb`.
+4. Classify written dates w/ a transformer architecture. `02_transformers.ipynb`.
