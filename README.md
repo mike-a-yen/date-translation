@@ -1,4 +1,6 @@
 # Date Translation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mike-a-yen/date-translation)
+
 Sequence2Sequence model to translate date strings into the standard date format.
 ```
 Dec 10, 1865 --> 1865-12-10
